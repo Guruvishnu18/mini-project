@@ -1,0 +1,467 @@
+@import url('https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Roboto:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap');
+
+.img {
+    height: 40px;
+    width: 60px;
+}
+
+p1:hover {
+
+    background-color: black;
+    padding: 10px;
+    color: white;
+    border-color: #f9fbfe;
+    border-width: 2px;
+    border-radius: 5px;
+}
+
+.head {
+    color: black;
+    font-family: Roboto;
+}
+
+.bg {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-banner-bg.png");
+    background-size: cover;
+    height: 100vh;
+}
+
+.h1-text {
+    color: white;
+    font-size: 40px;
+    font-weight: bold;
+}
+
+.bttn {
+    color: white;
+    border-radius: 5px;
+    font-family: Roboto;
+    height: 40px;
+    width: 120px;
+    border-width: 0px;
+    background-color: #1a2137;
+}
+
+.bg-f-section {
+    background-color: white;
+}
+
+.head-f-section {
+    font-size: 28px;
+    font-family: Roboto;
+    color: #1f2933;
+    font-weight: bold;
+    margin-bottom: 35px;
+}
+
+.img-f-section {
+    height: 70px;
+    width: 70px;
+}
+
+.h1-f-section {
+    font-size: 24px;
+    font-family: Roboto;
+    color: #1f2933;
+}
+
+.para-f-section {
+    font-size: 20px;
+    font-family: Roboto;
+    color: #7b8794;
+}
+
+.offer-f-section {
+    color: #1f2933;
+    font-style: italic;
+    font-weight: bold;
+}
+
+.bg-k-section {
+    background-color: #f9fbfe;
+    background-size: cover;
+}
+
+.head-k-section {
+    font-size: 30px;
+    font-family: Roboto;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.img-k-section {
+    width: 170px;
+    height: 230px;
+}
+
+.para-k-section {
+    font-size: 20px;
+    font-family: Roboto;
+    color: #323f4b;
+}
+
+.bg-c-section {
+    background-color: white;
+}
+
+.head-c-section {
+    font-size: 38px;
+    font-family: Roboto;
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.para-c-section {
+    font-size: 23px;
+    font-family: Roboto;
+    color: #7b8794;
+}
+
+.bttn-c-section {
+    border-radius: 4px;
+    border-width: 0px;
+    height: 50px;
+    width: 145px;
+    background-color: #1a2137;
+    font-family: Roboto;
+    font-size: 18px;
+}
+
+.img-c-section {
+    width: 270px;
+}
+
+.bg-tb-section {
+    background-color: white;
+}
+
+.head-tb-section {
+    font-family: Roboto;
+    font-size: 43px;
+    font-weight: bold;
+    color: #1f2933;
+}
+
+.card-tb-section {
+    border-radius: 5px;
+}
+
+.img-tb-section {
+    height: 100px;
+    width: 450px;
+}
+
+.h1-tb-section {
+    font-family: Roboto;
+    font-size: 20px;
+    color: #959ead;
+}
+
+.para-tb-section {
+    font-family: Roboto;
+    font-size: 23px;
+    color: #323f4b;
+}
+
+.para1-tb-section {
+    font-family: Roboto;
+    font-size: 18px;
+    color: #1754a1;
+    font-weight: bold;
+}
+
+.rad-tb-section {
+    border-radius: 5px;
+}
+
+.bttn-tb-section {
+    height: 50px;
+    width: 160px;
+    background-color: #1754a1;
+    font-family: Roboto;
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.heg-tb-section {
+    height: 150px;
+}
+
+.head-pro-section {
+    font-size: 43px;
+    font-family: Roboto;
+    color: #1f2933;
+    font-weight: bold;
+}
+
+.bg-pro-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-img.png");
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+
+.h1-pro-section {
+    font-family: Roboto;
+    font-size: 45px;
+    color: white;
+}
+
+.para-pro-section {
+    font-family: Roboto;
+    font-size: 30px;
+    color: white;
+}
+
+.bttn-pro-section {
+    height: 50px;
+    width: 150px;
+    border-radius: 5px;
+    border-color: white;
+    background-color: transparent;
+    font-family: Roboto;
+    font-size: 20px;
+    color: white;
+    border-width: 3px;
+}
+
+.bg-1-pro-section {
+    background-image: url("https://d1tgh8fmlzexmh.cloudfront.net/ccbp-responsive-website/vr-products-headset-with-controllers-img.png");
+    background-size: cover;
+    height: 800px;
+    width: 100%;
+}
+
+.bttn-1-pro-section {
+    height: 50px;
+    width: 160px;
+    background-color: #1754a1;
+    font-family: Roboto;
+    font-size: 15px;
+    color: white;
+    border-radius: 5px;
+    border-width: 0px;
+}
+
+.mar-pro-section {
+    margin-top: 69px;
+}
+
+.bg-fot-section {
+    background-color: #19232d;
+
+}
+
+.img-fot-section {
+    width: 105px;
+    height: 70px;
+    text-align: center;
+}
+
+.icon-fot-section {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.icon1-fot-section {
+    margin-top: 9px;
+}
+
+.icon2-fot-section {
+    margin-top: 3px;
+}
+
+.con-fot-section {
+    width: 60px;
+    height: 60px;
+    background-color: #202b36;
+    padding-top: 19px;
+    padding-bottom: 21px;
+    padding-right: 25px;
+    padding-left: 19px;
+    margin: 5px;
+    border-radius: 95px;
+
+}
+
+.head1-fot-section {
+    color: #5a7184;
+    font-size: 28px;
+    font-family: Roboto;
+
+}
+
+.head-fot-section {
+    color: #5a7184;
+    font-size: 30px;
+    font-family: Roboto;
+    font-weight: bold;
+}
+
+.mar-fot-section {
+    margin-left: 1px;
+}
+
+.horizontal-line-fot-section {
+    background-color: #959ead;
+    border-width: 2px;
+    margin-left: 30px;
+    margin-right: 30px;
+
+}
+
+.head2-fot-section {
+    color: #959ead;
+    font-size: 26px;
+    font-family: Roboto;
+
+}
+
+.mar1-fot-section {
+    margin-top: 80px;
+}
+
+.text-fot-section {
+    text-align: center;
+}
+
+.mar2-fot-section {
+    margin-top: 60px;
+}
+
+.mar3-fot-section {
+    margin-top: 75px;
+}
+
+
+
+
+.hover-effect {
+    position: relative;
+    width: 150px;
+    height: 50px;
+    background-color: #201b1b;
+    border-radius: 14px;
+    text-align: center;
+    transition: transform 0.1s ease;
+}
+
+.hover-effect:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+    z-index: 1;
+}
+
+.hover-effect-icon {
+    position: relative;
+    width: 60px;
+    height: 60px;
+    background-color: #202b36;
+    border-radius: 10px;
+    text-align: center;
+    transition: box-shadow 0.3s ease;
+    padding-top: 19px;
+    padding-bottom: 21px;
+    padding-right: 25px;
+    padding-left: 19px;
+    margin: 5px;
+    border-radius: 95px;
+}
+
+.hover-effect-icon:hover {
+    box-shadow: 0px 0px 20px 10px rgba(255, 255, 255, 0.8);
+    z-index: 1;
+}
+
+.hover-effect-icon-1 {
+    color: #5a7184;
+    font-size: 25px;
+}
+
+.f1 {
+    margin: 0;
+    font-family: Arial, sans-serif;
+}
+
+.features {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-wrap: wrap;
+}
+
+.feature {
+    width: 300px;
+    background-color: #393434;
+    padding: 20px;
+    margin: 10px;
+    color: white;
+}
+
+.box-effect {
+    position: relative;
+    width: 350px;
+    height: 150px;
+
+    border-radius: 10px;
+
+    transition: transform 0.1s ease;
+}
+
+.box-effect:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+    background-color: rgb(247, 247, 52);
+    z-index: 1;
+}
+
+.box-effect-1 {
+    position: relative;
+    width: 350px;
+    height: 150px;
+
+    border-radius: 10px;
+
+    transition: transform 0.1s ease;
+}
+
+.box-effect-1:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+    background-color: rgb(52, 247, 208);
+    z-index: 1;
+}
+
+.box-effect-2 {
+    position: relative;
+    width: 350px;
+    height: 150px;
+
+    border-radius: 10px;
+
+    transition: transform 0.1s ease;
+}
+
+.box-effect-2:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.3);
+    background-color: rgb(234, 59, 176);
+    z-index: 1;
+}
+
+.box-effect:hover p,
+.box-effect:hover h3 {
+    color: black;
+}
+
+.box-effect-1:hover p,
+.box-effect-1:hover h3 {
+    color: black;
+}
+
+.box-effect-2:hover p,
+.box-effect-2:hover h3 {
+    color: black;
+}
